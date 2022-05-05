@@ -3,12 +3,12 @@
 ## About
 
 * [🌟 Introduction](README.md)
-  * [Theory of Change](about/introduction/theory-of-change.md)
-  * [Business Plan](about/introduction/business-plan.md)
-  * [Implementation](about/introduction/implementation.md)
-  * [Media Kit](about/introduction/media-kit.md)
-  * [Terminology](about/introduction/terminology.md)
-  * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+  * [🔀 Theory of Change](about/introduction/theory-of-change.md)
+  * [📊 Business Plan](about/introduction/business-plan.md)
+  * [📈 Implementation](about/introduction/implementation.md)
+  * [🎨 Media Kit](about/introduction/media-kit.md)
+  * [🗃 Terminology](about/introduction/terminology.md)
+  * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [🖖 Join us](about/join-us.md)
 * [💰 Support Us](about/support-us.md)
 * [🏆 Awards](about/awards.md)
@@ -33,7 +33,7 @@
 * [🔃 Use Cases](research/use-cases.md)
   * [Use Cases Taxonomy](research/use-cases/test-pr..md)
 * [🖖 The Sagan Oath](research/the-sagan-oath.md)
-* [📓 Publications](research/publications.md)
+* [📖 Publications](research/publications.md)
 
 ## Strategy
 
@@ -50,6 +50,6 @@
 
 ## Operations
 
-* [Handbooks](operations/handbooks/README.md)
-  * [Comms](operations/handbooks/comms.md)
-  * [Tasks](operations/handbooks/tasks.md)
+* [📚 Handbooks](operations/handbooks/README.md)
+  * [📓 Comms](operations/handbooks/comms.md)
+  * [📓 Tasks](operations/handbooks/tasks.md)

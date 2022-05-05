@@ -1,4 +1,4 @@
-# Digital Rights Taxonomy
+# 🧊 Digital Rights Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

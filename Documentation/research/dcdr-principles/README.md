@@ -10,7 +10,7 @@ As core stakeholders, technologists play a critical role as the NextGen Rights D
 
 The **DCDR Principles** put forward by The IO Foundation are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
 
-![I Am My Data](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PI Padded NT xXX v1.0 (1).svg>) ![End Remedy](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PII Padded NT XXX v1.0.svg>) ![Rights By Design](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PIII Padded NT XXX v1.0.svg>)
+![I Am My Data](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PI Padded NT xXX v1.0.svg>) ![End Remedy](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PII Padded NT XXX v1.0.svg>) ![Rights By Design](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PIII Padded NT XXX v1.0.svg>)
 
 ## Outcomes
 

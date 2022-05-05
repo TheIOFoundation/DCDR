@@ -1,4 +1,4 @@
-# Definitions
+# Digital Harms Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

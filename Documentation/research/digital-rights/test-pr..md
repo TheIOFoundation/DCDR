@@ -1,4 +1,4 @@
-# Definitions
+# Digital Rights Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

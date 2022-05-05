@@ -1,4 +1,4 @@
-# Definitions
+# Use Cases Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

@@ -1,4 +1,4 @@
-# 🚧 Structures
+# Structures
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

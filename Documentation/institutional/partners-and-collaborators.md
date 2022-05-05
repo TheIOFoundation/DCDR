@@ -1,4 +1,4 @@
-# 🚧 Partners and Collaborators
+# Partners and Collaborators
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

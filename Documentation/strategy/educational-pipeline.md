@@ -1,4 +1,4 @@
-# 🚧 Educational Pipeline
+# Educational Pipeline
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

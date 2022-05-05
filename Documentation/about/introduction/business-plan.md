@@ -1,8 +1,10 @@
-# 📊 Business Plan
+# 🚧 Business Plan
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/DCDRBP) **| Playbook | Assistant**
 {% endhint %}
+
+
 
 {% hint style="warning" %}
 **NOTICE**
@@ -10,15 +12,3 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-## About
-
-This section provides all the information about the Data-Centric Digital Rights initiative's business plan.
-
-\[Work in Progress]
-
-{% hint style="info" %}
-This business plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
-{% endhint %}
-
-## Budgeting

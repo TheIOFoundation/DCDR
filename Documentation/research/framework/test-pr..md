@@ -1,4 +1,4 @@
-# Definitions
+# 🔢 Definitions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

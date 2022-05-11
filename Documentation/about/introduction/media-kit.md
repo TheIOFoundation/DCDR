@@ -5,7 +5,7 @@ description: Version 1.0 | This Media Kit was approved on 01 February 2022.
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRMediaKit) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/DCDRMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)****
 {% endhint %}
 
 ## Introduction

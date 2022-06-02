@@ -21,6 +21,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
+The following is a list of terms employed in The IO Foundation's Dats-Centric Digital Rights initiative.
+
 
 
 ## DCDR Terminology

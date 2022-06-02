@@ -4,20 +4,12 @@
 ****[**ShortURL**](https://tiof.click/DCDRTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)****
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-![](https://lh6.googleusercontent.com/q5p7F82vhLBwch4I2NBdlhnTxqnyUcE87YtIYvMmu\_V-zK08N\_p6PEbenvDurkgayofWPqhjb96l3hXWTlOSavdoloAro7oJVBMK1gzPbWfhNaqJ-Nw12ibHX6K4dVm3jMKpLajK)
-
-
-
-
 
 ## About
 
@@ -41,27 +33,31 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 
 **See** [#non-authentic-data](terminology.md#non-authentic-data "mention")****
 
+### Data
 
+### Data Controllers
 
-### **Schema**
+#### Traditional
 
-****
+#### DCDR
 
-### Taxonomy
+### Data Owners
 
+#### Traditional
 
+#### DCDR
 
-### Digital Assets (DA) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### Data Subjects
 
-The Representational Entity for any non-human Source Entity. Assets are owned by Digital Communities.
+#### Traditional
 
-### Digital Community (DC) <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
+#### DCDR
 
-The Representational Entity for a collection of one or more Source Entities, represented by their Digital Identities.
+### Data Users
 
-### **Digital domain (DD)**
+#### Traditional
 
-@@@Definition of the digital world from the perspective of the technology.
+#### DCDR
 
 ### Data-Centric Digital Rights (DCDR) \[advocacy]
 
@@ -77,9 +73,23 @@ The basic principles protecting Representational Entities in Digital Spaces.
 
 A set of guiding concepts around which the conversation of DR is constructed.
 
-### Digital Identity (DID) <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
 
-The Representational Entity for any human Source Entity.
+
+### Data Lifecycle (DL)
+
+
+
+### Digital Assets (DA) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+The Representational Entity for any non-human Source Entity. Assets are owned by Digital Communities.
+
+### Digital Community (DC) <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
+
+The Representational Entity for a collection of one or more Source Entities, represented by their Digital Identities.
+
+### **Digital Domain (DD)**
+
+@@@Definition of the digital world from the perspective of the technology.
 
 ### Digital Harm (DH)
 
@@ -93,6 +103,12 @@ Any algorithmic decision that will result in the occurrence of a Digital Harm.
 
 The resulting damaging outcome, be it over the Representational Entity or its Source Entity, that will result in Digital or Physical Harm.
 
+
+
+### Digital Identity (DID) <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
+
+The Representational Entity for any human Source Entity.
+
 ### Digital Right (DR)
 
 An algorithmic action that proactively prevents the occurrence of a Digital Harm on a given data point.
@@ -101,11 +117,17 @@ Digital Rights: Always use “Digital Rights” and not “digital rights”.
 
 Digital Rights are the basic principles protecting Representational Entities in Digital Spaces. By extension, protecting Digital Rights is the way to observe Human Rights.
 
-### Human Rights (HR)
+### Digital Rights  <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
 
-Human Rights: Always use “Human Rights” and not “human rights”.l
+The collection of Digital Right
+
+The basic principles protecting Representational Entities in Digital Spaces.
 
 
+
+### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+
+The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
 
 ### Digital Spaces (DS) <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
 
@@ -114,12 +136,6 @@ Digital Spaces are, beyond the Internet, the collection of networks that, whethe
 The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
 
 ### Digital Twin (DT)
-
-
-
-### State
-
-### Data Lifecycle (DL)
 
 
 
@@ -134,7 +150,13 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 * Mobile number
 * Physical address
 
-###
+
+
+### Human Rights (HR)
+
+Human Rights: Always use “Human Rights” and not “human rights”.l
+
+
 
 ### Human Rights (HR) advocacy
 
@@ -144,21 +166,13 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 
 Human Rights are the basic rights and freedoms to which all humans are considered to be entitled to.
 
-****
-
-
-
 ### **Implementor**
 
 @@@The people who make possible the design, implementation and maintenance of the Digital Domain from the Analog Domain.
 
-### Lifecycle
-
-
-
 ### Non-**Authentic Data**
 
-
+### Lifecycle
 
 ### Physical Harm (PH)
 
@@ -174,87 +188,31 @@ Any harmful action, be it Physical (PHA) or Digital (DHA).
 
 Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 
-
-
 ### Physical Lifecycle (PL)
 
-
-
-### **Representational Entities (RE)**
-
-Representational Entities are the resulting digital model obtained from data from any Source Entity.
-
-### &#x20;<a href="#_lzfgn31ljxuz" id="_lzfgn31ljxuz"></a>
+### **Schema**
 
 ### **Source Entities (SE)**
 
 Source Entities are any Analog object that is susceptible to be represented in any digital shape by ways of data that defines its characteristics.
 
-### &#x20;<a href="#_w835b21kq1va" id="_w835b21kq1va"></a>
+### State
 
-### ****
+### **Representational Entities (RE)**
 
-### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
-
-The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+Representational Entities are the resulting digital model obtained from data from any Source Entity.
 
 ### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
 
 The digital representation of people and objects in Digital Spaces.
 
-### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
-
-The basic principles protecting Representational Entities in Digital Spaces.
-
-### UDDR <a href="#_ghzu2gba7md3" id="_ghzu2gba7md3"></a>
-
-A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
-
-
-
-### Data Owners
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Controllers
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Subjects
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Users
-
-#### Traditional
-
-#### DCDR
-
-
-
-
-
-
-
-
-
-****
+### Taxonomy
 
 ### **\[The] Universal Declaration of Human Rights (UDHR)**
 
 The UDHR is the international document reference, proclaimed by the United Nations, that serves as the foundation to the observance of Human Rights worldwide.
+
+A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
 ### **\[The] Universal Declaration of Digital Rights (UDDR)**
 

@@ -117,7 +117,7 @@ Digital Rights: Always use “Digital Rights” and not “digital rights”.
 
 Digital Rights are the basic principles protecting Representational Entities in Digital Spaces. By extension, protecting Digital Rights is the way to observe Human Rights.
 
-### Digital Rights  <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
+
 
 The collection of Digital Right
 

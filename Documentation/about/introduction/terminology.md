@@ -28,7 +28,7 @@ The following section provides a comprehensive list of terms employed in The IO 
 
 A number of terms in this Terminology have a slide ready for presentations.
 
-Please check the corresponding [Slides Repository](https://tiof.click/TUSlidesRepo) and remember to follow the Presentations guidelines when using them.
+Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlidesRepo) and remember to follow the Presentations guidelines when using them.
 {% endhint %}
 
 ## DCDR Terminology

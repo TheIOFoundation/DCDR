@@ -43,7 +43,13 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 
 
 
-### ****
+### **Schema**
+
+****
+
+### Taxonomy
+
+
 
 ### Digital Assets (DA) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
@@ -60,6 +66,12 @@ The Representational Entity for a collection of one or more Source Entities, rep
 ### Data-Centric Digital Rights (DCDR) \[advocacy]
 
 The advocacy bringing forward the observance of the Digital Rights to be applied over data to protect it from its undue usage or extinction.
+
+
+
+The basic principles protecting Representational Entities in Digital Spaces.
+
+### &#x20;<a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
 
 ### Data-Centric Digital Rights Principles (DCDR Principles)
 
@@ -98,6 +110,8 @@ Human Rights: Always use “Human Rights” and not “human rights”.l
 ### Digital Spaces (DS) <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
 
 Digital Spaces are, beyond the Internet, the collection of networks that, whether public or private, hold data representing a Source Entity which may be stored for digital processing with or without their consent and/or knowledge.
+
+The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
 
 ### Digital Twin (DT)
 

@@ -27,6 +27,10 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 
 ### **Analog Space**
 
+****
+
+Source Entities exist in the analog space.
+
 {% hint style="info" %}
 **Acronym:** AS | **DCDR Framework:** Layer X - Definition
 
@@ -35,15 +39,19 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 
 ### **Authentic Data**
 
-
+Digital Twin that maintains its entanglement with its source entity.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** AD | **DCDR Framework:** Layer X - Definition
 
-**See also:** Non-Autentic Data
+**See also:** Non-Authentic Data
 {% endhint %}
 
 ### Data
+
+Quantified information representing properties of a source entity.
+
+A set of data, either authentic or non-authentic, arranged under a certain schema conforms a Digital Twin.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -99,7 +107,17 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Rights (DCDR) \[advocacy]
+### Data-Centric Digital Right
+
+
+
+{% hint style="info" %}
+**Acronym:** DCDR | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Data-Centric Digital Rights (advocacy)
 
 The advocacy bringing forward the observance of the Digital Rights to be applied over data to protect it from its undue usage or extinction.
 
@@ -108,17 +126,17 @@ The advocacy bringing forward the observance of the Digital Rights to be applied
 The basic principles protecting Representational Entities in Digital Spaces.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DCDR | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Rights Principles (DCDR Principles)
+### Data-Centric Digital Rights Principles
 
 A set of guiding concepts around which the conversation of DR is constructed.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DCDR Principles | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
@@ -126,80 +144,80 @@ A set of guiding concepts around which the conversation of DR is constructed.
 ### Data-Centric Digital Rights Framework
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DCDR Framework | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Data Lifecycle (DL)
+### Data Lifecycle
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Asset (DA) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### Digital Asset <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 The Representational Entity for any non-human Source Entity. Assets are owned by Digital Communities.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DA | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Community (DC) <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
+### Digital Community <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
 
 The Representational Entity for a collection of one or more Source Entities, represented by their Digital Identities.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DC | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### **Digital Domain (DD)**
+### **Digital Domain**
 
 @@@Definition of the digital world from the perspective of the technology.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DD | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harm (DH)
+### Digital Harm
 
 Any algorithmic action that may bring closer the extinction of a given data point.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DH | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harmful Action (DHA)
+### Digital Harmful Action
 
 Any algorithmic decision that will result in the occurrence of a Digital Harm.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DHA | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harmful Outcome (DHO)
+### Digital Harmful Outcome
 
 The resulting damaging outcome, be it over the Representational Entity or its Source Entity, that will result in Digital or Physical Harm.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DHO | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Identity (DID) <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
+### Digital Identity <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
 
 The Representational Entity for any human Source Entity.
 
@@ -209,7 +227,7 @@ The Representational Entity for any human Source Entity.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Right (DR)
+### Digital Right
 
 An algorithmic action that proactively prevents the occurrence of a Digital Harm on a given data point.
 
@@ -224,12 +242,14 @@ The collection of Digital Right
 The basic principles protecting Representational Entities in Digital Spaces.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DR | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Rights Advocacy&#x20;
+### Digital Rights Advocacy
+
+
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -246,15 +266,15 @@ The collection of digital mediums, whether public or private, that may store use
 The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DS | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Twin (DT)
+### Digital Twin
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** DT | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
@@ -269,19 +289,29 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 * Physical address
 
 {% hint style="info" %}
+**Acronym:** EID | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Entanglement
+
+
+
+{% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Human Right (HR)
+### Human Right
 
 Human Rights: Always use “Human Rights” and not “human rights”.l
 
 Human Rights are the basic rights and freedoms to which all humans are considered to be entitled to.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** HR | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
@@ -308,132 +338,150 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 
 ### Non-**Authentic Data**
 
+****
+
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** NAD | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
 ### Lifecycle
 
+
+
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harm (PH)
+### Physical Harm
 
 Any harm applied, be it Physical (PH) or Digital (DH).
 
 What you seek to protect.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** PH | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harmful Action (PHA)
+### Physical Harmful Action
 
 Any harmful action, be it Physical (PHA) or Digital (DHA).
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** PHA | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harmful Outcome (PHO)
+### Physical Harmful Outcome
 
 Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** PHO | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Lifecycle (PL)
+### Physical Lifecycle
+
+
+
+{% hint style="info" %}
+**Acronym:** PL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### P**roperty**
+
+
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
+
+### ****
 
 ### **Schema**
 
+****
+
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### **Source Entities (SE)**
+### **Source Entities**
 
 Source Entities are any Analog object that is susceptible to be represented in any digital shape by ways of data that defines its characteristics.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** SE | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
 ### State
 
-{% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
 
-**See also:**&#x20;
-{% endhint %}
-
-### **Representational Entities (RE)**
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
+
+### **Representational Entity**
 
 Representational Entities are the resulting digital model obtained from data from any Source Entity.
 
-### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+
 
 The digital representation of people and objects in Digital Spaces.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** <mark style="color:orange;">**RE**</mark> | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
 ### Taxonomy
 
+
+
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### **\[The] Universal Declaration of Human Rights (UDHR)**
+### **Universal Declaration of Human Rights**
 
 The UDHR is the international document reference, proclaimed by the United Nations, that serves as the foundation to the observance of Human Rights worldwide.
 
 A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** UDHR | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
 
-### **\[The] Universal Declaration of Digital Rights (UDDR)**
+### **Universal Declaration of Digital Rights**
 
 The UDDR is a set of legal definitions and technical standards to ensure the observance, compliance and implementation of Data-Centric Digital Rights.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** UDDR | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}

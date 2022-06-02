@@ -39,7 +39,7 @@ Source Entities exist in the analog space.
 
 ### **Authentic Data**
 
-Digital Twin that maintains its entanglement with its source entity.
+Data conforming a Digital Twin component that maintains its entanglement with its source entity component.
 
 {% hint style="info" %}
 **Acronym:** AD | **DCDR Framework:** Layer X - Definition
@@ -119,9 +119,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 
 ### Data-Centric Digital Rights (advocacy)
 
-The advocacy bringing forward the observance of the Digital Rights to be applied over data to protect it from its undue usage or extinction.
-
-
+The advocacy bringing forward the observance of the Rights to be applied over data to protect it from its undue usage or extinction.
 
 The basic principles protecting Representational Entities in Digital Spaces.
 
@@ -143,6 +141,8 @@ A set of guiding concepts around which the conversation of DR is constructed.
 
 ### Data-Centric Digital Rights Framework
 
+
+
 {% hint style="info" %}
 **Acronym:** DCDR Framework | **DCDR Framework:** Layer X - Definition
 
@@ -150,6 +150,8 @@ A set of guiding concepts around which the conversation of DR is constructed.
 {% endhint %}
 
 ### Data Lifecycle
+
+
 
 {% hint style="info" %}
 **Acronym:** DL | **DCDR Framework:** Layer X - Definition
@@ -159,7 +161,9 @@ A set of guiding concepts around which the conversation of DR is constructed.
 
 ### Digital Asset <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
-The Representational Entity for any non-human Source Entity. Assets are owned by Digital Communities.
+The Representational Entity for any non-human Source Entity.
+
+Assets are owned by Digital Communities.
 
 {% hint style="info" %}
 **Acronym:** DA | **DCDR Framework:** Layer X - Definition
@@ -169,7 +173,7 @@ The Representational Entity for any non-human Source Entity. Assets are owned by
 
 ### Digital Community <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
 
-The Representational Entity for a collection of one or more Source Entities, represented by their Digital Identities.
+A collection of one or more Representational Entities, organized around a common objective.
 
 {% hint style="info" %}
 **Acronym:** DC | **DCDR Framework:** Layer X - Definition
@@ -257,13 +261,19 @@ The basic principles protecting Representational Entities in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Space (DS) <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
+### Digital Space <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
 
 Digital Spaces are, beyond the Internet, the collection of networks that, whether public or private, hold data representing a Source Entity which may be stored for digital processing with or without their consent and/or knowledge.
 
-The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+The collection of digital mediums, whether public or private, that may store digital twins in any way that conforms their identities, with or without their consent and/or knowledge.
+
+
+
+The collection of digital mediums, whether public or private, that may store digital twins in any way that conforms their identities, with or without their consent and/or knowledge.
 
 The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+
+
 
 {% hint style="info" %}
 **Acronym:** DS | **DCDR Framework:** Layer X - Definition
@@ -272,6 +282,18 @@ The collection of digital mediums, whether public or private, that may store use
 {% endhint %}
 
 ### Digital Twin
+
+
+
+{% hint style="info" %}
+**Acronym:** DT | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Digital Twin Component
+
+
 
 {% hint style="info" %}
 **Acronym:** DT | **DCDR Framework:** Layer X - Definition
@@ -306,7 +328,7 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 
 ### Human Right
 
-Human Rights: Always use “Human Rights” and not “human rights”.l
+Human Rights: Always use “Human Rights” and not “human rights”.
 
 Human Rights are the basic rights and freedoms to which all humans are considered to be entitled to.
 
@@ -326,9 +348,19 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### **Implementor**
+### **Implementer**
 
 @@@The people who make possible the design, implementation and maintenance of the Digital Domain from the Analog Domain.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Lifecycle
+
+
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -346,12 +378,12 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### Lifecycle
+### Objective
 
-
+A desired modification of one or more states measured by a set of KPIs.
 
 {% hint style="info" %}
-**Acronym:**  | **DCDR Framework:** Layer X - Definition
+**Acronym:** NAD | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
 {% endhint %}
@@ -407,8 +439,6 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 
 **See also:**&#x20;
 {% endhint %}
-
-### ****
 
 ### **Schema**
 

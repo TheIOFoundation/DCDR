@@ -21,7 +21,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-The following section provides a comprehensive list of terms employed in The IO Foundation's Dats-Centric Digital Rights initiative.
+The following section provides a comprehensive list of terms employed in The IO Foundation's Data-Centric Digital Rights initiative.
 
 {% hint style="info" %}
 **Note to TIOF Members**

@@ -27,19 +27,19 @@
   * [3⃣ Layer III](research/framework/test-pr.-3.md)
 * [⌛ Data Lifecycle](research/data-lifecycle.md)
 * [☠ Digital Harms](research/digital-harms.md)
-  * [🧊 Digital Harms Taxonomy](research/digital-harms/test-pr..md)
+  * [🧊 🚧 Digital Harms Taxonomy](research/digital-harms/test-pr..md)
 * [🛡 Digital Rights](research/digital-rights.md)
-  * [🧊 Digital Rights Taxonomy](research/digital-rights/test-pr..md)
+  * [🧊 🚧 Digital Rights Taxonomy](research/digital-rights/test-pr..md)
 * [🔃 Use Cases](research/use-cases.md)
-  * [Use Cases Taxonomy](research/use-cases/test-pr..md)
+  * [🧊 🚧 Use Cases Taxonomy](research/use-cases/test-pr..md)
 * [🖖 The Sagan Oath](research/the-sagan-oath.md)
 * [📖 Publications](research/publications.md)
 
 ## Strategy
 
-* [Educational Pipeline](strategy/educational-pipeline.md)
-* [Working Groups](strategy/working-groups.md)
-* [Public Tenders](strategy/public-tenders.md)
+* [🚧 Educational Pipeline](strategy/educational-pipeline.md)
+* [🚧 Working Groups](strategy/working-groups.md)
+* [🚧 Public Tenders](strategy/public-tenders.md)
 
 ## INSTITUTIONAL
 

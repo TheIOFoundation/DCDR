@@ -644,6 +644,16 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 Sustainability
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 **Representational Entity**
 
 Representational Entities are the resulting digital model obtained from data from any Source Entity.

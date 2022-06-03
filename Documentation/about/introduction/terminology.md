@@ -47,6 +47,16 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:** Non-Authentic Data
 {% endhint %}
 
+### Cost
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### Data
 
 Quantified information representing properties of a source entity.
@@ -301,6 +311,20 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
+### Dimension
+
+
+
+#### Primary dimensions
+
+#### Secondary dimensions
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### Endpoint ID
 
 A unique identifier that allows an emitter A to send a message to a receptor B unequivocally. Examples:
@@ -358,7 +382,37 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
+### **KPI**
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### Lifecycle
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### **Loss**
+
+
+
+{% hint style="info" %}
+**Acronym:**   | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Need
 
 
 
@@ -430,7 +484,37 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
+### Problem
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### P**roperty**
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Resource
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Responsibility
 
 
 
@@ -460,7 +544,27 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
+### S**pace**
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### State
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### Status Quo
 
 
 
@@ -516,3 +620,14 @@ The UDDR is a set of legal definitions and technical standards to ensure the obs
 **See also:**&#x20;
 {% endhint %}
 
+### **Wealth**
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+###

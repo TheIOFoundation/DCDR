@@ -1,4 +1,4 @@
-# 🧊 🚧 Use Cases Taxonomy
+# Use Cases Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

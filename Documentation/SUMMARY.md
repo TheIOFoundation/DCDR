@@ -43,13 +43,13 @@
 
 ## INSTITUTIONAL
 
-* [Structures](institutional/structures/README.md)
-  * [Board of Consultants](institutional/structures/board-of-consultants.md)
-  * [Teams](institutional/structures/teams.md)
-* [Partners and Collaborators](institutional/partners-and-collaborators.md)
+* [🚧 Structures](institutional/structures/README.md)
+  * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
+  * [🚧 Teams](institutional/structures/teams.md)
+* [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
 
 * [📚 Handbooks](operations/handbooks/README.md)
-  * [📓 Comms](operations/handbooks/comms.md)
-  * [📓 Tasks](operations/handbooks/tasks.md)
+  * [📓 🚧 Comms](operations/handbooks/comms.md)
+  * [📓 🚧 Tasks](operations/handbooks/tasks.md)

@@ -614,6 +614,16 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 **Simplification**
+
+Analyzing a system by removing a number of objects and discarding a number of dimensions in order to understand something.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 **Source Entities**
 
 Source Entities are any Analog object that is susceptible to be represented in any digital shape by ways of data that defines its characteristics.

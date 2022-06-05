@@ -25,7 +25,17 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 
 ## DCDR Terminology
 
-### **Analog Space**
+### 🚧 Access Control
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 **Analog Space**
 
 ****
 
@@ -37,7 +47,7 @@ Source Entities exist in the analog space.
 **See also:** Digital Space
 {% endhint %}
 
-### **Authentic Data**
+### 🚧 **Authentic Data**
 
 Data conforming a Digital Twin component that maintains its entanglement with its source entity component.
 
@@ -47,7 +57,7 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:** Non-Authentic Data
 {% endhint %}
 
-### Cost
+### 🚧 Authentic Equivalence
 
 
 
@@ -57,7 +67,27 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:**&#x20;
 {% endhint %}
 
-### Data
+### 🚧 Cost
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Consent
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Data
 
 Quantified information representing properties of a source entity.
 
@@ -69,7 +99,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data Controller
+### 🚧 Data Controller
 
 #### Traditional
 
@@ -81,7 +111,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data Owner
+### 🚧 Data Owner
 
 #### Traditional
 
@@ -93,7 +123,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data Subject
+### 🚧 Data Subject
 
 #### Traditional
 
@@ -105,7 +135,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data User
+### 🚧 Data User
 
 #### Traditional
 
@@ -117,7 +147,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Right
+### 🚧 Data-Centric Digital Right
 
 
 
@@ -127,7 +157,7 @@ A set of data, either authentic or non-authentic, arranged under a certain schem
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Rights (advocacy)
+### 🚧 Data-Centric Digital Rights (advocacy)
 
 The advocacy bringing forward the observance of the Rights to be applied over data to protect it from its undue usage or extinction.
 
@@ -139,7 +169,7 @@ The basic principles protecting Representational Entities in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Rights Principles
+### 🚧 Data-Centric Digital Rights Principles
 
 A set of guiding concepts around which the conversation of DR is constructed.
 
@@ -149,7 +179,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### Data-Centric Digital Rights Framework
+### 🚧 Data-Centric Digital Rights Framework
 
 
 
@@ -159,7 +189,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### Data Lifecycle
+### 🚧 Data Lifecycle
 
 
 
@@ -169,7 +199,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Asset <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Digital Asset <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 The Representational Entity for any non-human Source Entity.
 
@@ -181,7 +211,7 @@ Assets are owned by Digital Communities.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Community <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
+### 🚧 Digital Community <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
 
 A collection of one or more Representational Entities, organized around a common objective.
 
@@ -191,7 +221,7 @@ A collection of one or more Representational Entities, organized around a common
 **See also:**&#x20;
 {% endhint %}
 
-### **Digital Domain**
+### 🚧 **Digital Domain**
 
 @@@Definition of the digital world from the perspective of the technology.
 
@@ -201,7 +231,7 @@ A collection of one or more Representational Entities, organized around a common
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harm
+### 🚧 Digital Harm
 
 Any algorithmic action that may bring closer the extinction of a given data point.
 
@@ -211,7 +241,7 @@ Any algorithmic action that may bring closer the extinction of a given data poin
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harmful Action
+### 🚧 Digital Harmful Action
 
 Any algorithmic decision that will result in the occurrence of a Digital Harm.
 
@@ -221,7 +251,7 @@ Any algorithmic decision that will result in the occurrence of a Digital Harm.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Harmful Outcome
+### 🚧 Digital Harmful Outcome
 
 The resulting damaging outcome, be it over the Representational Entity or its Source Entity, that will result in Digital or Physical Harm.
 
@@ -231,7 +261,7 @@ The resulting damaging outcome, be it over the Representational Entity or its So
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Identity <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
+### 🚧 Digital Identity <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
 
 The Representational Entity for any human Source Entity.
 
@@ -241,7 +271,7 @@ The Representational Entity for any human Source Entity.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Right
+### 🚧 Digital Right
 
 An algorithmic action that proactively prevents the occurrence of a Digital Harm on a given data point.
 
@@ -261,7 +291,7 @@ The basic principles protecting Representational Entities in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Rights Advocacy
+### 🚧 Digital Rights Advocacy
 
 
 
@@ -271,7 +301,7 @@ The basic principles protecting Representational Entities in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Space <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
+### 🚧 Digital Space <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
 
 Digital Spaces are, beyond the Internet, the collection of networks that, whether public or private, hold data representing a Source Entity which may be stored for digital processing with or without their consent and/or knowledge.
 
@@ -291,7 +321,17 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Twin
+### 🚧 Digital Society
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Digital Twin
 
 
 
@@ -301,7 +341,7 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
-### Digital Twin Component
+### 🚧 Digital Twin Component
 
 
 
@@ -311,7 +351,7 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
-### Dimension
+### 🚧 Dimension
 
 
 
@@ -325,7 +365,7 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
-### Endpoint ID
+### 🚧 Endpoint ID
 
 A unique identifier that allows an emitter A to send a message to a receptor B unequivocally. Examples:
 
@@ -340,7 +380,7 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 **See also:**&#x20;
 {% endhint %}
 
-### Entanglement
+### 🚧 Entanglement
 
 
 
@@ -350,7 +390,27 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 **See also:**&#x20;
 {% endhint %}
 
-### Human Right
+### 🚧 Equivalence
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Non-Authentic Equivalence
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Human Right
 
 Human Rights: Always use “Human Rights” and not “human rights”.
 
@@ -362,7 +422,7 @@ Human Rights are the basic rights and freedoms to which all humans are considere
 **See also:**&#x20;
 {% endhint %}
 
-### Human Rights Advocacy
+### 🚧 Human Rights Advocacy
 
 The advocacy bringing forward the observance of the Human Rights that are conferred to people.
 
@@ -372,7 +432,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### **Implementer**
+### 🚧 **Implementer**
 
 @@@The people who make possible the design, implementation and maintenance of the Digital Domain from the Analog Domain.
 
@@ -382,7 +442,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### **KPI**
+### 🚧 **KPI**
 
 
 
@@ -392,7 +452,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### Lifecycle
+### 🚧 Lifecycle
 
 
 
@@ -402,7 +462,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### **Loss**
+### 🚧 **Loss**
 
 
 
@@ -412,7 +472,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### Need
+### 🚧 Need
 
 
 
@@ -422,7 +482,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### Non-**Authentic Data**
+### 🚧 Non-**Authentic Data**
 
 ****
 
@@ -432,7 +492,7 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
-### Objective
+### 🚧 Objective
 
 A desired modification of one or more states measured by a set of KPIs.
 
@@ -442,7 +502,27 @@ A desired modification of one or more states measured by a set of KPIs.
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harm
+### 🚧 Owner
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Ownership
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Physical Harm
 
 Any harm applied, be it Physical (PH) or Digital (DH).
 
@@ -454,7 +534,7 @@ What you seek to protect.
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harmful Action
+### 🚧 Physical Harmful Action
 
 Any harmful action, be it Physical (PHA) or Digital (DHA).
 
@@ -464,7 +544,7 @@ Any harmful action, be it Physical (PHA) or Digital (DHA).
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Harmful Outcome
+### 🚧 Physical Harmful Outcome
 
 Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 
@@ -474,7 +554,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### Physical Lifecycle
+### 🚧 Physical Lifecycle
 
 
 
@@ -484,7 +564,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### Problem
+### 🚧 Problem
 
 
 
@@ -494,7 +574,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### P**roperty**
+### 🚧 P**roperty**
 
 
 
@@ -504,7 +584,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### Resource
+### 🚧 Resource
 
 
 
@@ -514,7 +594,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### Responsibility
+### 🚧 Responsibility
 
 
 
@@ -524,7 +604,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### **Schema**
+### 🚧 **Schema**
 
 ****
 
@@ -534,7 +614,7 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### **Source Entities**
+### 🚧 **Source Entities**
 
 Source Entities are any Analog object that is susceptible to be represented in any digital shape by ways of data that defines its characteristics.
 
@@ -544,7 +624,7 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
-### S**pace**
+### 🚧 S**pace**
 
 
 
@@ -554,7 +634,7 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
-### State
+### 🚧 State
 
 
 
@@ -564,7 +644,7 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
-### Status Quo
+### 🚧 Status Quo
 
 
 
@@ -574,7 +654,17 @@ Source Entities are any Analog object that is susceptible to be represented in a
 **See also:**&#x20;
 {% endhint %}
 
-### **Representational Entity**
+### 🚧 Sustainability
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 **Representational Entity**
 
 Representational Entities are the resulting digital model obtained from data from any Source Entity.
 
@@ -588,7 +678,7 @@ The digital representation of people and objects in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### Taxonomy
+### 🚧 Taxonomy
 
 
 
@@ -598,7 +688,19 @@ The digital representation of people and objects in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### **Universal Declaration of Human Rights**
+### 🚧 Time
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+
+
+### 🚧 **Universal Declaration of Human Rights**
 
 The UDHR is the international document reference, proclaimed by the United Nations, that serves as the foundation to the observance of Human Rights worldwide.
 
@@ -610,7 +712,7 @@ A set of legal and technical standards to ensure the observance, compliance and 
 **See also:**&#x20;
 {% endhint %}
 
-### **Universal Declaration of Digital Rights**
+### 🚧 **Universal Declaration of Digital Rights**
 
 The UDDR is a set of legal definitions and technical standards to ensure the observance, compliance and implementation of Data-Centric Digital Rights.
 
@@ -620,7 +722,17 @@ The UDDR is a set of legal definitions and technical standards to ensure the obs
 **See also:**&#x20;
 {% endhint %}
 
-### **Wealth**
+### 🚧 **Wealth**
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 XYZ
 
 
 

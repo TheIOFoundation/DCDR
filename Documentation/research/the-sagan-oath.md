@@ -74,5 +74,5 @@ The final decision, albeit seemingly simplistic, was based solely in the recogni
 
 > We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.
 >
-> [Carl Sagan](https://carlsagan.com)
+> [Carl Sagan](https://carlsagan.com/)
 {% endhint %}

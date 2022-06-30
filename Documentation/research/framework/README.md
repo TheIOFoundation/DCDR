@@ -52,15 +52,15 @@ DCDR Framework Levels interconnection
 * Citizen-centric \[WHY?]
 * Digital Spaces (which can be many) are a result, and thus dependent of the Physical Space (which is unique) \[WHY?]
 
-### Layer I
+### Level I
 
 This level provides an structure on the nature of a Space. It describes the fundamentals of what composes a Space and the interactions happening within it.
 
-### Layer II
+### Level II
 
 This level provides a list of DCDR Components on the bases of the objects existing in a Space.
 
-### Layer III
+### Level III
 
 This level describes the DCDR Framework, a macro view of how the DCDR Components are to interact to architect digital spaces that respond to the DCDR Principles.
 

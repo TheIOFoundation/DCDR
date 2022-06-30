@@ -67,7 +67,17 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Cost
+### 🚧 Centralized
+
+
+
+{% hint style="info" %}
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Community(?) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 
 
@@ -78,6 +88,16 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 {% endhint %}
 
 ### 🚧 Consent
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Cost
 
 
 
@@ -189,9 +209,29 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Data Lifecycle
+### 🚧 Data Lifecycle <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 
+
+{% hint style="info" %}
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Decentralized <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+
+
+{% hint style="info" %}
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Decentralized Network <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+A collection of interconnected hardware Nodes that collaborate to perform tasks where none of the parties is irreplaceable for a proper functioning. / to perform its expected SERVICES.
 
 {% hint style="info" %}
 **Acronym:** DL | **DCDR Framework:** Layer X - Definition
@@ -365,6 +405,26 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 Distributed Ledger Technology
+
+A distributed database that is used to maintain a list of records, called Blocks, which store an amount of data. By design, blockchains are resistant to modification of said data once recorded. Blocks and Envelopes are the building units of blockchain structures in 1Persona.
+
+{% hint style="info" %}
+**Acronym:** DLT | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Endpoint
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 Endpoint ID
 
 A unique identifier that allows an emitter A to send a message to a receptor B unequivocally. Examples:
@@ -401,6 +461,16 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 {% endhint %}
 
 ### 🚧 Non-Authentic Equivalence
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Group
 
 
 
@@ -452,6 +522,20 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧Language
+
+
+
+Format
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 Lifecycle
 
 
@@ -490,6 +574,16 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **Acronym:** NAD | **DCDR Framework:** Layer X - Definition
 
 **See also:**&#x20;
+{% endhint %}
+
+### 🚧 Object
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:** List of Objects per Space & Layer >> Taxonomy / Schema
 {% endhint %}
 
 ### 🚧 Objective
@@ -635,6 +729,10 @@ Source Entities are any Analog object that is susceptible to be represented in a
 {% endhint %}
 
 ### 🚧 S**pace**
+
+
+
+A Space object always acts as the Genesis Object for all its contained objects.
 
 
 

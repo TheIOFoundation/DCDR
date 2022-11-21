@@ -47,7 +47,17 @@ Source Entities exist in the analog space.
 **See also:** Digital Space
 {% endhint %}
 
-### 🚧 **Authentic Data**
+### 🚧 Applicable Laws
+
+Ensemble of regulations that apply to all objects in a transaction in the DCDR Framework. These regulations can be established by any governance body or Community.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧**Authentic Data**
 
 Data conforming a Digital Twin component that maintains its entanglement with its source entity component.
 
@@ -67,7 +77,27 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Cost
+### 🚧 Centralized
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Child <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+In a spawning operation, Parent is the originating Object that is spawned and Child is the resulting spawn.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Community(?) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 
 
@@ -78,6 +108,16 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 {% endhint %}
 
 ### 🚧 Consent
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Cost
 
 
 
@@ -189,9 +229,29 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Data Lifecycle
+### 🚧 Data Lifecycle <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
 
 
+
+{% hint style="info" %}
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Decentralized <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+
+
+{% hint style="info" %}
+**Acronym:** DL | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Decentralized Network <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+
+A collection of interconnected hardware Nodes that collaborate to perform tasks where none of the parties is irreplaceable for a proper functioning. / to perform its expected SERVICES.
 
 {% hint style="info" %}
 **Acronym:** DL | **DCDR Framework:** Layer X - Definition
@@ -365,6 +425,26 @@ The collection of digital mediums, whether public or private, that may store use
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 Distributed Ledger Technology
+
+A distributed database that is used to maintain a list of records, called Blocks, which store an amount of data. By design, blockchains are resistant to modification of said data once recorded. Blocks and Envelopes are the building units of blockchain structures in 1Persona.
+
+{% hint style="info" %}
+**Acronym:** DLT | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Endpoint
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 Endpoint ID
 
 A unique identifier that allows an emitter A to send a message to a receptor B unequivocally. Examples:
@@ -401,6 +481,16 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 {% endhint %}
 
 ### 🚧 Non-Authentic Equivalence
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Group
 
 
 
@@ -452,9 +542,23 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧Language
+
+
+
+Format
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 Lifecycle
 
-
+The collection of all States an object goes through from its genesis to its end.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -465,6 +569,26 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 ### 🚧 **Loss**
 
 
+
+{% hint style="info" %}
+**Acronym:**   | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Mandate
+
+A list of instructions, encoded using BPMN, that determines the behavior of Layer III objects and their Interactions.
+
+{% hint style="info" %}
+**Acronym:**   | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Mesh
+
+Any collection of Nodes is called a Mesh. When comparing two Meshes, one will be determined as SuperMesh (or Parent Mesh) while the other one will be labeled as SubMesh (Child Mesh). From the perspective of a Node, the Mesh it belongs to is always named OwnMesh. The Mesh that represents the ensemble of the running Network is called PrimeMesh.
 
 {% hint style="info" %}
 **Acronym:**   | **DCDR Framework:** Layer X - Definition
@@ -492,6 +616,16 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 Object
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:** List of Objects per Space & Layer >> Taxonomy / Schema
+{% endhint %}
+
 ### 🚧 Objective
 
 A desired modification of one or more states measured by a set of KPIs.
@@ -513,6 +647,16 @@ A desired modification of one or more states measured by a set of KPIs.
 {% endhint %}
 
 ### 🚧 Ownership
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧Parent
 
 
 
@@ -584,7 +728,17 @@ Any harmful outcome, be it Physical (PHO) or Digital (DHO).
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Resource
+### 🚧 Reliability Threshold
+
+The required number of Nodes in a Mesh to ensure its proper and full functionality.
+
+{% hint style="info" %}
+**Acronym:** RT | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧Resource
 
 
 
@@ -637,6 +791,20 @@ Source Entities are any Analog object that is susceptible to be represented in a
 ### 🚧 S**pace**
 
 
+
+A Space object always acts as the Genesis Object for all its contained objects.
+
+
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 S**pawning**
+
+The action of creating a replica of an Object that remains linked over the course of its usage.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition

@@ -33,7 +33,8 @@
 * [🔃 Use Cases](research/use-cases.md)
   * [🧊 🚧 Use Cases Taxonomy](research/use-cases/test-pr..md)
 * [🖖 The Sagan Oath](research/the-sagan-oath.md)
-* [📖 Publications](research/publications.md)
+* [📖 Publications](research/publications/README.md)
+  * [🚧 MYS PDPA Comments on PCP 01-2020](research/publications/mys-pdpa-comments-on-pcp-01-2020.md)
 
 ## Strategy
 

@@ -407,7 +407,7 @@ The collection of digital mediums, whether public or private, that may store use
 
 ### 🚧 Digital Twin
 
-
+Digital replica of a living or non-living physical entity, organized around a schema.
 
 {% hint style="info" %}
 **Acronym:** DT | **DCDR Framework:** Layer X - Definition
@@ -539,6 +539,16 @@ The advocacy bringing forward the observance of the Human Rights that are confer
 ### 🚧 **Implementer**
 
 @@@The people who make possible the design, implementation and maintenance of the Digital Domain from the Analog Domain.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 **Internet Governance**
+
+Development and application of principles, policies, standards, decision-making procedures and programs that shape the evolution and use of the Internet.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -774,7 +784,7 @@ The required number of Nodes in a Mesh to ensure its proper and full functionali
 
 ### 🚧 **Schema**
 
-****
+A templated organization of data that provides an understanding about the nature and the utility of a given set of data.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -819,6 +829,16 @@ A Space object always acts as the Genesis Object for all its contained objects.
 ### 🚧 S**pawning**
 
 The action of creating a replica of an Object that remains linked over the course of its usage.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Splinternet
+
+The outcome of the division of the Internet due to various factors, such as technology, commerce, politics, nationalism, religion and divergent national interests.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition

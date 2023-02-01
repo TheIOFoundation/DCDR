@@ -119,7 +119,7 @@ In a spawning operation, Parent is the originating Object that is spawned and Ch
 
 ### 🚧 Consent
 
-
+Expression of agreement that grants permission to proceed with a certain proposal.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -170,6 +170,16 @@ A collection of discrete meaningful values, collected or deduced, that can be st
 #### Traditional
 
 #### DCDR
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
+### 🚧 Data Protection Law
+
+Legal mechanism that aims at the protection of individuals with regard to the processing of Personal Data.
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition
@@ -691,6 +701,8 @@ A desired modification of one or more states measured by a set of KPIs.
 {% endhint %}
 
 ### 🚧 Physical Harm
+
+Any harm received by a physical entity.
 
 Any harm applied, be it Physical (PH) or Digital (DH).
 

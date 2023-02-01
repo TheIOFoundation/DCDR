@@ -35,6 +35,16 @@ Please check the corresponding [Slides Repository](https://tiof.click/DCDRSlides
 **See also:**&#x20;
 {% endhint %}
 
+### 🚧 Algorithm
+
+A finite sequence of instructions that transform input data, and in turn generate output data, in order to perform a task or solve a problem.
+
+{% hint style="info" %}
+**Acronym:**  | **DCDR Framework:** Layer X - Definition
+
+**See also:**&#x20;
+{% endhint %}
+
 ### 🚧 **Analog Space**
 
 ****

@@ -139,9 +139,13 @@ In a spawning operation, Parent is the originating Object that is spawned and Ch
 
 ### 🚧 Data
 
-Quantified information representing properties of a source entity.
+A collection of discrete meaningful values, collected or deduced, that can be stored, processed or transmitted.
 
-A set of data, either authentic or non-authentic, arranged under a certain schema conforms a Digital Twin.
+
+
+~~Quantified information representing properties of a source entity.~~
+
+~~A set of data, either authentic or non-authentic, arranged under a certain schema conforms a Digital Twin.~~
 
 {% hint style="info" %}
 **Acronym:**  | **DCDR Framework:** Layer X - Definition

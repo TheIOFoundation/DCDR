@@ -81,7 +81,7 @@ When describing DCDR, please use these official descriptions.
 
 Data-Centric Digital Rights (DCDR), an initiative from The IO Foundation, is a framework for technologists composed of Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as NextGen Rights Defenders.
 
-> By understanding that _I am my data_, technologists may design solutions that aim at ending remedy by architecting and building technology that observers Rights by Design.
+> By understanding that [_I am my data_](https://tiof.click/DCDRPrinciple1), technologists may design solutions that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) by architecting and building technology that observers [_Rights by Design_](https://tiof.click/DCDRPrinciple3).
 
 #### Mini version&#x20;
 

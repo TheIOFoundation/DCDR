@@ -1,14 +1,14 @@
 # 🎯 Principle I - I Am My Data
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRPrinciple1) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/DCDRPrinciple1) **| Playbook | Assistant**
 {% endhint %}
 
-![I Am My Data](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI T XXX v1.0.png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0 (1).png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0.png>)
+![I Am My Data](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PI T XXX v1.0.png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0.png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0 (1).png>)
 
-> ## _Treat their data as you'd want to be treated._
+> ## _Treat other people's data the same way you want to be treated._
 >
-> __
+>
 
 The traditional understanding of data as separate entities from their users is anchored in past perceptions and the use of legacy technologies.
 

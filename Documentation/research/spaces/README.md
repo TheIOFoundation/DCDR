@@ -1,8 +1,9 @@
 ---
 description: Version 0.1
+hidden: true
 ---
 
-# ❇ Spaces
+# ❇️ Spaces
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant |** [**Contribute**](https://tiof.click/DCDRDataLifecycleContribute)

@@ -1,8 +1,9 @@
 ---
 description: v0.1
+hidden: true
 ---
 
-# 🛠 Practical scenarios
+# 🛠️ Practical scenarios
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Contribute**

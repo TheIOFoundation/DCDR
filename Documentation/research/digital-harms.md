@@ -1,11 +1,12 @@
 ---
 description: Version 0.1
+hidden: true
 ---
 
-# ☠ Digital Harms
+# ☠️ Digital Harms
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Contribute**](https://tiof.click/DCDRDigitalHarmsContribute)****
+**ShortURL | Playbook | Assistant |** [**Contribute**](https://tiof.click/DCDRDigitalHarmsContribute)
 {% endhint %}
 
 {% hint style="warning" %}

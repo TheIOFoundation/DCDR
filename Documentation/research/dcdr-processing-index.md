@@ -1,5 +1,6 @@
 ---
 description: v1.0
+hidden: true
 ---
 
 # 📉 DCDR Processing Index

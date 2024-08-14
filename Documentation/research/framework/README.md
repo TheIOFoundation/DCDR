@@ -1,11 +1,12 @@
 ---
 description: Version 0.1
+hidden: true
 ---
 
-# 🗺 Framework
+# 🗺️ Framework
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRFramework) **| Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRFrameworkContribute)****
+[**ShortURL**](https://tiof.click/DCDRFramework) **| Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRFrameworkContribute)
 {% endhint %}
 
 {% hint style="warning" %}

@@ -1,11 +1,12 @@
 ---
 description: Version 0.1
+hidden: true
 ---
 
-# 🛡 Digital Rights
+# 🛡️ Digital Rights
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Contribute**](https://tiof.click/DCDRDigitalRightsContribute)****
+**ShortURL | Playbook | Assistant |** [**Contribute**](https://tiof.click/DCDRDigitalRightsContribute)
 {% endhint %}
 
 {% hint style="warning" %}

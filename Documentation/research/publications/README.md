@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📖 Publications
 
 {% hint style="info" %}

@@ -1,7 +1,7 @@
 # 🌟 Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRDocs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/DCDRDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

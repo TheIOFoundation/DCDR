@@ -1,11 +1,12 @@
 ---
 description: Version 0.1
+hidden: true
 ---
 
 # 🔃 Use Cases
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRUseCasesContribute)****
+**ShortURL | Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRUseCasesContribute)
 {% endhint %}
 
 {% hint style="warning" %}

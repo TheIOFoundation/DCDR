@@ -5,18 +5,18 @@ description: Version 0.1
 # 🖖 The Sagan Oath
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRSaganOath) **| Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRSaganOathContribute)****
+[**ShortURL**](https://tiof.click/DCDRSaganOath) **| Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRSaganOathContribute)
 {% endhint %}
 
 ## About
 
-The Sagan Oath is an attempt to fill a disturbing void in the tech sector where technologists do not have a method to verbalize what is their purpose from the perspective of being active contributors of Digital Spaces and platforms that protect their users.
+The Sagan Oath is a declaration for technologists to adhere to as they actively contribute to Digital Spaces and platforms to ensure the protection of their users by design. It’s ultimate goal is to synthesize a sense of purpose that can be operationalized and thus effectively guide technologists in their role as new rights defenders.
 
-In the same spirit of the modern Hippocratic Oath (in which it is directly inspired at the time of its conception), the Sagan Oath attempts to express verbally the responsibilities that technology engineers should embrace.
+In the same spirit of the modern Hippocratic Oath (of which it is directly inspired at the time of its conception), the Sagan Oath attempts to express verbally the responsibilities that technology engineers should embrace.
 
-The existence of the Hippocratic Oath allows doctors to understand what is it that they are protecting in a way that is relatable: Life - for which the concept of borders are unknown. As a result, doctors can pledge their knowledge to protect their patients, anywhere in the world they may be needed.
+The Hippocratic Oath is a universal declaration by doctors to society clarifying their commitment, in entering the medical world, to uphold specific ethical standards. As a result of this pledge any patient knows that the primary objective of a doctor, anywhere in the world, is their care and protection.
 
-In the absence of such a covenant, technologists have struggled to generate the same global movement. The consequences have been painfully observed: technology is not currently designed with the objective to protect its users at its core.
+In the absence of such a covenant, technologists have found it challenging to generate the same global commitment. As a consequence, technology as been developed not to advance and protect its users but rather use and abuse them.
 
 The IO Foundation aims at complementing the DCDR Framework with an Oath that can help technologists to understand their fundamental role as Next Generation of Rights Defenders.
 

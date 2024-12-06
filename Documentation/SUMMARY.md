@@ -25,6 +25,7 @@
   * [1️⃣ 1⃣ Layer I](research/framework/test-pr.-1.md)
   * [2️⃣ 2⃣ Layer II](research/framework/test-pr.-2.md)
   * [3️⃣ 3⃣ Layer III](research/framework/test-pr.-3.md)
+* [Other Notes](research/other-notes.md)
 * [❇️ Spaces](research/spaces/README.md)
   * [❇️ 🚧 Physical Space](research/spaces/physical-space.md)
   * [❇️ 🚧 Mental Space](research/spaces/mental-space.md)

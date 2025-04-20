@@ -5,7 +5,7 @@ description: Version 1.0 | This Media Kit was approved on 01 February 2022.
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)****
+[**ShortURL**](https://tiof.click/DCDRMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)
 {% endhint %}
 
 ## Introduction
@@ -197,23 +197,15 @@ Any other Media Channel not listed here is to be considered not affiliated with 
 
 ### Official Website
 
-The following is the official website for TechUp.
+The following is the official website for the DCDR initiative.
 
-| **Full URL**         | [https://TheIOFoundation.org/DCDR](https://theiofoundation.org/DCDR) |
-| -------------------- | -------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                 |
-| **Short URL**        | [https://TIOF.Click/DCDRWeb](https://tiof.click/DCDRWeb)             |
-| **Contents**         | General information about DCDR                                       |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://theiofoundation.org/DCDR">https://TheIOFoundation.org/DCDR</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/DCDRWeb">https://TIOF.Click/DCDRWeb</a></td></tr><tr><td><strong>Contents</strong></td><td>General information about DCDR</td></tr></tbody></table>
 
 ### Official Documentation
 
-The following is the official documentation site for The IO Foundation and its initiatives.
+The following is the official documentation site for DCDR initiative.
 
-| **Full URL**         | [https://docs.theiofoundation.org/the-io-foundation/v/data-centric-digital-rights/about/introduction](https://docs.theiofoundation.org/the-io-foundation/v/data-centric-digital-rights/about/introduction) |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                                                                                                                                                       |
-| **Short URL**        | [https://TIOF.Click/DCDRDocs](https://tiof.click/DCDRDocs)                                                                                                                                                 |
-| **Contents**         | Publishing of all documentation relative to DCDR + Research + Reference materials                                                                                                                          |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://docs.theiofoundation.org/Data-Centric-Digital-Rights">https://Docs.TheIOFoundation.org/Data-Centric-Digital-Rights</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/DCDRDocs">https://TIOF.Click/DCDRDocs</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of all documentation relative to DCDR + Research + Reference materials</td></tr></tbody></table>
 
 ### URL Shorteners
 
@@ -227,12 +219,7 @@ For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOF
 
 The following are the official repositories used by The IO Foundation.
 
-| **Full URL**         | [https://github.com/TheIOFoundation/DCDR](https://github.com/TheIOFoundation/DCDR) |
-| -------------------- | ---------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                               |
-| **Short URL**        | [https://TIOF.Click/DCDRRepo](https://tiof.click/DCDRRepo)                         |
-| **Content**          | Public repository showcasing DCDR's advocacy work                                  |
-| **Usage**            | Initiative Management + Community Collaboration + Transparency platform            |
+<table data-header-hidden><thead><tr><th width="168.40434927892022"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://github.com/TheIOFoundation/DCDR">https://github.com/TheIOFoundation/DCDR</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/DCDRRepo">https://TIOF.Click/DCDRRepo</a></td></tr><tr><td><strong>Content</strong></td><td>Public repository showcasing DCDR's advocacy work</td></tr><tr><td><strong>Usage</strong></td><td>Initiative Management + Community Collaboration + Transparency platform</td></tr></tbody></table>
 
 ### Email
 
@@ -242,16 +229,11 @@ The following are the official email domains used by the DCDR advocacy.
 Only email received from these domains are to be considered originated by DCDR or its members.
 {% endhint %}
 
-| **Domains**             | @TheIOFoundation.org                                                     |
-| ----------------------- | ------------------------------------------------------------------------ |
-| **Alternative Domains** | None                                                                     |
-| **Usage**               | Official communications from DCDR Members both internally and externally |
+<table data-header-hidden><thead><tr><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Domains</strong></td><td>@TheIOFoundation.org</td></tr><tr><td><strong>Alternative Domains</strong></td><td>None</td></tr><tr><td><strong>Usage</strong></td><td>Official communications from DCDR Members both internally and externally</td></tr></tbody></table>
 
 The following are the official public email addresses used by TechUp.
 
-| **Email** | DCDR@TheIOFoundation.org              |
-| --------- | ------------------------------------- |
-| **Usage** | Official communications and inquiries |
+<table data-header-hidden><thead><tr><th width="159.54054054054055"></th><th width="223.82547411160982"></th></tr></thead><tbody><tr><td><strong>Email</strong></td><td>DCDR@TheIOFoundation.org</td></tr><tr><td><strong>Usage</strong></td><td>Official communications and inquiries</td></tr></tbody></table>
 
 ### Social Media
 

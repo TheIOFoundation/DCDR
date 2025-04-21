@@ -1,10 +1,10 @@
 # 🎯 Principle III - Rights By Design
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRPrinciple3) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/DCDRPrinciple3) **| Playbook | Assistant**
 {% endhint %}
 
-![I Am My Data](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI BW T XXX v1.0.png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0.png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII T XXX v1.0.png>)
+![I Am My Data](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI BW T XXX v1.0 (1).png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0 (1).png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII T XXX v1.0.png>)
 
 > _Leave no policy uncoded behind._\
 >

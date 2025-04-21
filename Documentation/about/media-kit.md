@@ -123,13 +123,13 @@ The following are the official formulations of the 3 DCDR Principles that The IO
 
 
 
-|                                                                                       |                                                                                    |                                                                                         |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ![](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI T XXX v1.0 (1).png>) | ![](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII T XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII T XXX v1.0 (1).png>) |
-| **Principle I**                                                                       | **Principle II**                                                                   | **Principle III**                                                                       |
-| `I Am My Data`                                                                        | `End Remedy`                                                                       | `Rights By Design`                                                                      |
-| _Treat their data as you'd want to be treated._                                       | _Adopt designs that minimize grievances._                                          | _Leave no protection uncoded behind._                                                   |
-| [Learn more](https://tiof.click/DCDRPrinciple1)                                       | [Learn more](https://tiof.click/DCDRPrinciple2)                                    | [Learn more](https://tiof.click/DCDRPrinciple3)                                         |
+|                                                                                    |                                                                                 |                                                                                      |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![](<../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI T XXX v1.0 (1).png>) | ![](<../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII T XXX v1.0.png>) | ![](<../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII T XXX v1.0 (1).png>) |
+| **Principle I**                                                                    | **Principle II**                                                                | **Principle III**                                                                    |
+| `I Am My Data`                                                                     | `End Remedy`                                                                    | `Rights By Design`                                                                   |
+| _Treat their data as you'd want to be treated._                                    | _Adopt designs that minimize grievances._                                       | _Leave no protection uncoded behind._                                                |
+| [Learn more](https://tiof.click/DCDRPrinciple1)                                    | [Learn more](https://tiof.click/DCDRPrinciple2)                                 | [Learn more](https://tiof.click/DCDRPrinciple3)                                      |
 
 {% hint style="success" %}
 **A full Media Kit set is available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**, including DCDR materials.**
@@ -157,15 +157,15 @@ The following are the official QR Codes to link DCDR's online resources.
 
 
 
-|                                                                                          |     |     |
-| :--------------------------------------------------------------------------------------: | :-: | :-: |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principles QR Code XXX v1.0 (1).png>) |     |     |
-|                                      DCDR Principles                                     |     |     |
+|                                                                                       |     |     |
+| :-----------------------------------------------------------------------------------: | :-: | :-: |
+| ![](<../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principles QR Code XXX v1.0 (1).png>) |     |     |
+|                                    DCDR Principles                                    |     |     |
 
-|                                                                                       |                                                                                        |                                                                                         |
-| :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle I QR Code XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle II QR Code XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle III QR Code XXX v1.0.png>) |
-|                                      Principle I                                      |                                      Principle II                                      |                                      Principle III                                      |
+|                                                                                    |                                                                                     |                                                                                      |
+| :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| ![](<../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle I QR Code XXX v1.0.png>) | ![](<../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle II QR Code XXX v1.0.png>) | ![](<../.gitbook/assets/\[TIOF] Comms \[P] DCDR Principle III QR Code XXX v1.0.png>) |
+|                                     Principle I                                    |                                     Principle II                                    |                                     Principle III                                    |
 
 {% hint style="success" %}
 **All QR Codes are available in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**, which includes TechUp materials.**
@@ -295,13 +295,13 @@ The following is the official recruitment platform through which the DCDR initia
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.&#x20;
 
-|                                                                                                                  |                   |                                              |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
-| <img src="../../.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6.png" alt="" data-size="line"> | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
-| <mark style="color:orange;">**\[PENDING]**</mark>                                                                | DCDR              | This document                                |
-| <img src="../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                      | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
-| <img src="../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
-| <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
+|                                                                                                               |                   |                                              |
+| ------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| <img src="../.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6.png" alt="" data-size="line"> | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
+| <mark style="color:orange;">**\[PENDING]**</mark>                                                             | DCDR              | This document                                |
+| <img src="../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| <img src="../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                      | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| <img src="../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| <img src="../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
+| <img src="../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
 

@@ -5,7 +5,7 @@ description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
 # 🔀 Theory of Change
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRTofC) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/DCDRTofC) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -30,8 +30,6 @@ The current state of technology is not conducive to designing digital spaces tha
 * Impossibility of adherence to compliance
 * Impossibility for agencies to verify and enforce compliance
 * Leaving behind major stakeholder: programmers
-
-
 
 ## The proposed solutions
 

@@ -1,7 +1,7 @@
-# 🗃 Terminology
+# 🗃️ Terminology
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)****
+[**ShortURL**](https://tiof.click/DCDRTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/DCDRSlidesRepo)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -47,7 +47,7 @@ A finite sequence of instructions that transform input data, and in turn generat
 
 ### 🚧 **Analog Space**
 
-****
+
 
 Source Entities exist in the analog space.
 
@@ -97,7 +97,7 @@ Data conforming a Digital Twin component that maintains its entanglement with it
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Child <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Child <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 In a spawning operation, Parent is the originating Object that is spawned and Child is the resulting spawn.
 
@@ -107,7 +107,7 @@ In a spawning operation, Parent is the originating Object that is spawned and Ch
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Community(?) <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Community(?) <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 
 
@@ -253,7 +253,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Data Lifecycle <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Data Lifecycle <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 
 
@@ -263,7 +263,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Decentralized <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Decentralized <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 
 
@@ -273,7 +273,7 @@ A set of guiding concepts around which the conversation of DR is constructed.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Decentralized Network <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Decentralized Network <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 A collection of interconnected hardware Nodes that collaborate to perform tasks where none of the parties is irreplaceable for a proper functioning. / to perform its expected SERVICES.
 
@@ -283,7 +283,7 @@ A collection of interconnected hardware Nodes that collaborate to perform tasks 
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Digital Asset <a href="#_4vu2rvgrd74v" id="_4vu2rvgrd74v"></a>
+### 🚧 Digital Asset <a href="#id-4vu2rvgrd74v" id="id-4vu2rvgrd74v"></a>
 
 The Representational Entity for any non-human Source Entity.
 
@@ -295,7 +295,7 @@ Assets are owned by Digital Communities.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Digital Community <a href="#_tdjf96y61xb2" id="_tdjf96y61xb2"></a>
+### 🚧 Digital Community <a href="#tdjf96y61xb2" id="tdjf96y61xb2"></a>
 
 A collection of one or more Representational Entities, organized around a common objective.
 
@@ -345,7 +345,7 @@ The resulting damaging outcome, be it over the Representational Entity or its So
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Digital Identity <a href="#_1w4zshgdaoek" id="_1w4zshgdaoek"></a>
+### 🚧 Digital Identity <a href="#id-1w4zshgdaoek" id="id-1w4zshgdaoek"></a>
 
 The Representational Entity for any human Source Entity.
 
@@ -385,7 +385,7 @@ The basic principles protecting Representational Entities in Digital Spaces.
 **See also:**&#x20;
 {% endhint %}
 
-### 🚧 Digital Space <a href="#_f2d6e2hol4pp" id="_f2d6e2hol4pp"></a>
+### 🚧 Digital Space <a href="#f2d6e2hol4pp" id="f2d6e2hol4pp"></a>
 
 Digital Spaces are, beyond the Internet, the collection of networks that, whether public or private, hold data representing a Source Entity which may be stored for digital processing with or without their consent and/or knowledge.
 
@@ -642,7 +642,7 @@ Any collection of Nodes is called a Mesh. When comparing two Meshes, one will be
 
 ### 🚧 Non-**Authentic Data**
 
-****
+
 
 {% hint style="info" %}
 **Acronym:** NAD | **DCDR Framework:** Layer X - Definition

@@ -1,8 +1,24 @@
+---
+description: Learn about The IO Foundation's DCDR Principles.
+---
+
 # 🎯 DCDR Principles
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/DCDRPrinciples) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/DCDRPrinciples) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/TIOFDocsTIOFsDCDRPrinciples_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+## About
 
 **Data-Centric Digital Rights** (DCDR) is the advocacy of protecting citizens' Rights by transparently implementing the regulations that should protect them.
 

@@ -1,4 +1,8 @@
-# 🖖 Join us
+---
+icon: hand-spock
+---
+
+# Get involved
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRJoinUs) **| Playbook | Assistant**

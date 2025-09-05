@@ -1,8 +1,9 @@
 ---
 description: Learn about The IO Foundation's DCDR Principles.
+icon: cubes
 ---
 
-# 🎯 DCDR Principles
+# DCDR Principles
 
 {% tabs %}
 {% tab title="Quick Resources" %}

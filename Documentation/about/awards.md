@@ -1,4 +1,9 @@
-# 🏆 Awards
+---
+hidden: true
+icon: award
+---
+
+# Awards
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRAwards) **| Playbook | Assistant**

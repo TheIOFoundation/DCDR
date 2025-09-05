@@ -2,24 +2,25 @@
 
 ## About
 
-* [🌟 Introduction](README.md)
-* [🔀 Theory of Change](about/theory-of-change.md)
+* [Introduction](README.md)
+* [Theory of Change](about/theory-of-change.md)
+* [DCDR Principles](about/dcdr-principles/README.md)
+  * [Principle I - I Am My Data](about/dcdr-principles/principle-i-i-am-my-data.md)
+  * [Principle II - End Remedy](about/dcdr-principles/principle-ii-end-remedy.md)
+  * [Principle III - Rights By Design](about/dcdr-principles/principle-iii-rights-by-design.md)
+* [The Sagan Oath](about/the-sagan-oath.md)
 * [📊 Business Plan](about/business-plan.md)
 * [📈 Implementation](about/implementation.md)
 * [🗃️ Terminology](about/terminology.md)
-* [🎨 Media Kit](about/media-kit.md)
+* [Media Kit](about/media-kit.md)
 * [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
-* [🖖 Join us](about/join-us.md)
-* [💰 Support Us](about/support-us.md)
-* [🏆 Awards](about/awards.md)
-* [🗄️ Media Archive](about/media-archive.md)
+* [Get involved](about/join-us.md)
+* [Support Us](about/support-us.md)
+* [Awards](about/awards.md)
+* [Media Archive](about/media-archive.md)
 
 ## Research
 
-* [🎯 DCDR Principles](research/dcdr-principles/README.md)
-  * [🎯 Principle I - I Am My Data](research/dcdr-principles/principle-i-i-am-my-data.md)
-  * [🎯 Principle II - End Remedy](research/dcdr-principles/principle-ii-end-remedy.md)
-  * [🎯 Principle III - Rights By Design](research/dcdr-principles/principle-iii-rights-by-design.md)
 * [🗺️ Framework](research/framework/README.md)
   * [🔢 Definitions](research/framework/test-pr..md)
   * [1️⃣ 1️⃣ 1⃣ Layer I](research/framework/test-pr.-1.md)
@@ -39,7 +40,6 @@
   * [🧊 🚧 Use Cases Taxonomy](research/use-cases/test-pr..md)
 * [📉 DCDR Processing Index](research/dcdr-processing-index.md)
 * [🛠️ Practical scenarios](research/practical-scenarios.md)
-* [🖖 The Sagan Oath](research/the-sagan-oath.md)
 * [📖 Publications](research/publications/README.md)
   * [🚧 MYS PDPA Comments on PCP 01-2020](research/publications/mys-pdpa-comments-on-pcp-01-2020.md)
 

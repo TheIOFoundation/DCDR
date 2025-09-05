@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🗃️ Terminology
 
 {% hint style="info" %}

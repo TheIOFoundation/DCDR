@@ -1,4 +1,9 @@
-# 🗄 Media Archive
+---
+hidden: true
+icon: cabinet-filing
+---
+
+# Media Archive
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

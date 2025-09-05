@@ -1,4 +1,8 @@
-# 🎯 Principle III - Rights By Design
+---
+icon: cube
+---
+
+# Principle III - Rights By Design
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRPrinciple3) **| Playbook | Assistant**

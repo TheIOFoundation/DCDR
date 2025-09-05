@@ -1,4 +1,8 @@
-# 🎯 Principle II - End Remedy
+---
+icon: cube
+---
+
+# Principle II - End Remedy
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRPrinciple2) **| Playbook | Assistant**

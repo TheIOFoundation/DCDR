@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
+icon: swap
 ---
 
-# 🔀 Theory of Change
+# Theory of Change
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRTofC) **| Playbook | Assistant**

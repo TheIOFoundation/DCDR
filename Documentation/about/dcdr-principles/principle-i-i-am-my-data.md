@@ -1,4 +1,8 @@
-# 🎯 Principle I - I Am My Data
+---
+icon: cube
+---
+
+# Principle I - I Am My Data
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRPrinciple1) **| Playbook | Assistant**

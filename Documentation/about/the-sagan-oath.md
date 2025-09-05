@@ -1,8 +1,9 @@
 ---
 description: Version 0.1
+icon: hand-sparkles
 ---
 
-# 🖖 The Sagan Oath
+# The Sagan Oath
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRSaganOath) **| Playbook | Assistant |** [**Contribute**](http://tiof.click/DCDRSaganOathContribute)

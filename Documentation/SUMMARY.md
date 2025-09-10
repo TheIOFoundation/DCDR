@@ -8,16 +8,16 @@
   * [Principle I - I Am My Data](about/dcdr-principles/principle-i-i-am-my-data.md)
   * [Principle II - End Remedy](about/dcdr-principles/principle-ii-end-remedy.md)
   * [Principle III - Rights By Design](about/dcdr-principles/principle-iii-rights-by-design.md)
+* [🗃️ Terminology](about/terminology.md)
 * [The Sagan Oath](about/the-sagan-oath.md)
 * [Get involved](about/join-us.md)
 * [📊 Business Plan](about/business-plan.md)
 * [📈 Implementation](about/implementation.md)
-* [🗃️ Terminology](about/terminology.md)
-* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
-* [Media Kit](about/media-kit.md)
 * [Support Us](about/support-us.md)
 * [Awards](about/awards.md)
 * [Media Archive](about/media-archive.md)
+* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
+* [Media Kit](about/media-kit.md)
 
 ## Research
 
@@ -62,3 +62,4 @@
   * [📓 🚧 Comms](operations/handbooks/comms/README.md)
     * [🚧 Email Campaigns](operations/handbooks/comms/email-campaigns.md)
   * [📓 🚧 Tasks](operations/handbooks/tasks.md)
+* [Reusable Blocks](operations/reusable-blocks.md)

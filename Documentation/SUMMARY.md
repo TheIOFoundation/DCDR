@@ -16,7 +16,7 @@
 * [Support Us](about/support-us.md)
 * [Awards](about/awards.md)
 * [Media Archive](about/media-archive.md)
-* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 * [Media Kit](about/media-kit.md)
 
 ## Research

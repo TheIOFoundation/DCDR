@@ -8,7 +8,7 @@ icon: cube
 [**ShortURL**](https://tiof.click/DCDRPrinciple2) **| Playbook | Assistant**
 {% endhint %}
 
-![I Am My Data](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI BW T XXX v1.0.png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII T XXX v1.0 (1).png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0.png>)
+![I Am My Data](<../../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PI BW T XXX v1.0.png>) ![End Remedy](<../../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII T XXX v1.0 (1).png>) ![Rights By Design](<../../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0.png>)
 
 > _Adopt designs that minimize grievances._\
 >

@@ -12,7 +12,7 @@ icon: hand-spock
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology through its DCDR advocacy initiative.
 
-Do you share the DCDR's [Mission & Vision](../#mission-and-vision)?
+Do you share the DCDR's [Mission & Vision](../../#mission-and-vision)?
 
 Do you have a passion towards the development and support of the [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy)?
 
@@ -30,7 +30,7 @@ There are 2 ways to proceed:
 
 ### Participate as a TIOF Member
 
-By joining as a TIOF Member you will officially join one of the [DCDR Teams](../institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
+By joining as a TIOF Member you will officially join one of the [DCDR Teams](../../institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
 TIOF Members can be:
 
@@ -67,7 +67,7 @@ In response to your commitment towards our [values](https://tiof.click/TIOFValue
 Check out what are we up to and pick tasks you feel you can contribute with.
 
 {% hint style="info" %}
-How to contribute on tasks? **Check the** [**Tasks Handbook**](../operations/handbooks/tasks.md)**.**
+How to contribute on tasks? **Check the** [**Tasks Handbook**](../../operations/handbooks/tasks.md)**.**
 {% endhint %}
 
 {% embed url="https://tiof.click/DCDRTasks" %}

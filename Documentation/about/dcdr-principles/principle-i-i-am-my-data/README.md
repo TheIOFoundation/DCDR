@@ -8,7 +8,7 @@ icon: cube
 [**ShortURL**](https://tiof.click/DCDRPrinciple1) **| Playbook | Assistant**
 {% endhint %}
 
-![I Am My Data](<../../.gitbook/assets/\[TIOF] Comms \[P] Principles PI T XXX v1.0.png>) ![End Remedy](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0.png>) ![Rights By Design](<../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0 (1).png>)
+![I Am My Data](<../../../.gitbook/assets/\[TIOF] Comms \[P] Principles PI T XXX v1.0.png>) ![End Remedy](<../../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PII BW T XXX v1.0.png>) ![Rights By Design](<../../../.gitbook/assets/\[TIOF DCDR] Comms \[P] Principles PIII BW T XXX v1.0 (1).png>)
 
 > ## _Treat other people's data the same way you want to be treated._
 >

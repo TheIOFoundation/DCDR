@@ -1,33 +1,25 @@
----
-icon: star
-cover: .gitbook/assets/DCDR Advocacy.png
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
-# Introduction
+# New Version
 
 
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRDocs) **| Playbook | Assistant**
 {% endhint %}
+
+{% hint style="warning" %}
+This website contains the **documentation** relative to the Data-Centric Digital Rights (DCDR) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
+
+You may be looking for:
+
+* [Official Website](https://tiof.click/DCDRWeb)
+* [DCDR Initiative Management](https://tiof.click/DCDRRepo)
+
+To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
+{% endhint %}
+
+{% embed url="https://tiof.click/DCDRPresentation" %}
+Introduction to the DCDR Advocacy initiative
+{% endembed %}
 
 ## The Initiative
 

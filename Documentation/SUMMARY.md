@@ -3,6 +3,7 @@
 ## About
 
 * [Introduction](README.md)
+  * [New Version](about/readme/new-version.md)
 * [Projects](about/projects.md)
 * [Theory of Change](about/theory-of-change.md)
 * [DCDR Principles](about/dcdr-principles/README.md)

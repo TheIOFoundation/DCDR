@@ -41,3 +41,7 @@
     * [🚧 Email Campaigns](operations/handbooks/comms/email-campaigns.md)
   * [📓 🚧 Tasks](operations/handbooks/tasks.md)
 * [Reusable Blocks](operations/reusable-blocks.md)
+
+## NOTICE
+
+* [Section Under Maintenance](notice/section-under-maintenance.md)

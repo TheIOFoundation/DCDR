@@ -6,6 +6,19 @@ hidden: true
 
 
 
+
+
+## TO ADD
+
+* DCDR is an attempt to a positive outlook into the future.
+* Freedom of Expression is paramount of the prompts will be incomplete.
+
+
+
+
+
+
+
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/DCDRDocs) **| Playbook | Assistant**
 {% endhint %}

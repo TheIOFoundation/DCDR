@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
   * [New Version](about/readme/new-version.md)
-* [Projects](about/projects.md)
 * [Theory of Change](about/theory-of-change.md)
 * [DCDR Principles](about/dcdr-principles/README.md)
   * [Principle I - I Am My Data](about/dcdr-principles/principle-i-i-am-my-data/README.md)

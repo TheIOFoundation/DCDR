@@ -2,6 +2,10 @@
 description: Version 1.0 | This Media Kit was approved on 01 February 2022.
 hidden: true
 icon: palette
+cover: >-
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Media Kit XXX
+  v1.0.png
+coverY: 0
 ---
 
 # Media Kit

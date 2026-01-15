@@ -1,6 +1,7 @@
 ---
 description: Version 0.1
 hidden: true
+noIndex: true
 icon: hand-sparkles
 ---
 

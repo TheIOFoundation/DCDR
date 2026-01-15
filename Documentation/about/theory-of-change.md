@@ -1,6 +1,7 @@
 ---
 description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
 hidden: true
+noIndex: true
 icon: swap
 ---
 

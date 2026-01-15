@@ -1,6 +1,7 @@
 ---
 description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
 hidden: true
+noIndex: true
 coverY: 0
 ---
 
